@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/abdelmajid"><img src="https://api.daily.dev/devcards/2745a863d9414d1f9d0c9ca47218ad5c.png?r=ks2" width="400" alt="Abdelmajid Farah's Dev Card"/></a>
 <!--
 **abdelmajiid/abdelmajiid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
